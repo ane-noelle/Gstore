@@ -1,0 +1,8 @@
+git config --global user.name ane-noelle
+git config --global user.email anenoelle60@gmail.com
+
+-- Criar o projeto API
+dotnet new webapi -o Gstore.API --use-controllers
+
+-- Instalação das bibliotecas/pacotes
+-- Extensão Nuget Gallery

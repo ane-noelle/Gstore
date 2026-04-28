@@ -1,0 +1,6 @@
+@Gstore.API_HostAddress = http://localhost:5226
+
+GET {{Gstore.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
