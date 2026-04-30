@@ -18,4 +18,6 @@ namespace Gstore.API.Models;
 
         [StringLength(26)]
         public string Cor { get; set; } = "rgba(0,0,0,1)";
+
+        
     }
